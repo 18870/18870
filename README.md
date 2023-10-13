@@ -12,3 +12,6 @@ YAML                       6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+Since Apr 24 2021  
+[![wakatime](https://wakatime.com/badge/user/36ed39fe-d45d-4053-be1a-bf45701659c5.svg?style=for-the-badge)](https://wakatime.com/@36ed39fe-d45d-4053-be1a-bf45701659c5)
