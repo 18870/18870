@@ -1,4 +1,4 @@
-[![18870's GitHub stats](https://github-readme-stats.vercel.app/api?username=18870&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![18870's GitHub stats](https://github-stats-extended.vercel.app/api?username=18870)](https://github.com/stats-organization/github-stats-extended)
 <!--START_SECTION:waka-->
 
 ```txt
